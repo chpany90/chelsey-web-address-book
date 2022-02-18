@@ -1,0 +1,178 @@
+{
+    "people": [
+        {
+            "id": "1",
+            "name": "Tracy Pope",
+            "image": "./img/profile_tracy.jpeg",
+            "department": "Research and Development",
+            "phone": "828-555-5555",
+            "email": "tracy.pope@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of NC, Greensboro",
+                    "startYear": 2009,
+                    "endYear": 2013,
+                    "degree": "Bachelor's, Computer Information Systems"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Megacorp",
+                    "startYear": 2013,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Joe Manfrey",
+            "image": "./img/profile_joe.jpeg",
+            "department": "Research and Development",
+            "phone": "336-555-555",
+            "email": "joe.manfrey@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of South Carolina",
+                    "startYear": 1996,
+                    "endYear": 2000,
+                    "degree": "Master's, Computer Science"
+                },
+                {
+                    "institution": "Clemson University",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "title": "Software Developer"
+                },
+                {
+                    "institution": "Corporate Inc.",
+                    "startYear": 1995,
+                    "endYear": 1998,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Michael Herron",
+            "image": "./img/profile_michael.jpeg",
+            "department": "Finance",
+            "phone": "704-425-5555",
+            "email": "michael.herron@mycompany.com",
+            "education": [
+                {
+                    "institution": "Appalachian State University",
+                    "startYear": 2007,
+                    "endYear": 2011,
+                    "degree": "Bachelor's, Finance"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Genesys",
+                    "startYear": 2022,
+                    "title": "Software Developer"
+                },
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 2013,
+                    "endYear": 2021,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Allison Murray",
+            "image": "./img/profile_allison.jpeg",
+            "department": "Information Technology",
+            "phone": "704-555-555",
+            "email": "allison.murray@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of Southern California",
+                    "startYear": 2001,
+                    "endYear": 2005,
+                    "degree": "Bachelor's, Computer Information Systems"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "United Products",
+                    "startYear": 2010,
+                    "title": "Director of IT"
+                },
+                {
+                    "institution": "United Products",
+                    "startYear": 2005,
+                    "endYear": 2010,
+                    "title": "IT Specialist"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Blair Stevens",
+            "image": "./img/avatar.png",
+            "department": "Research and Development",
+            "phone": "336-302-1546",
+            "email": "blair.stevens@mycompany.com",
+            "education": [
+                {
+                    "institution": "University of NC, Chapel-Hill",
+                    "startYear": 2009,
+                    "endYear": 2013,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Megacorp",
+                    "startYear": 2014,
+                    "title": "Testing Engineer"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Kevin Smith",
+            "image": "./img/avatar.png",
+            "department": "Research and Development",
+            "phone": "980-621-9786",
+            "email": "Kevin.Smith@mycompany.com",
+            "education": [
+                {
+                    "institution": "Harvard University",
+                    "startYear": 1986,
+                    "endYear": 1990,
+                    "degree": "Bachelor's, Mathematics"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 2009,
+                    "title": "Director, Information Services"
+                },
+                {
+                    "institution": "Company Inc.",
+                    "startYear": 1992,
+                    "endYear": 1996,
+                    "title": "Manager, Technical Support"
+                }
+            ]
+        }
+    ]
+}
